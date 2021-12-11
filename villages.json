@@ -372,7 +372,7 @@
     "fullname": "Badín",
     "shortname": "Badín",
     "zip": "976 32",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -452,7 +452,7 @@
     "fullname": "Baláže",
     "shortname": "Baláže",
     "zip": "976 11",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -580,7 +580,7 @@
     "fullname": "Banská Bystrica",
     "shortname": "Banská Bystrica",
     "zip": "0",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -788,7 +788,7 @@
     "fullname": "Bečov",
     "shortname": "Bečov",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -2468,7 +2468,7 @@
     "fullname": "Brusno",
     "shortname": "Brusno",
     "zip": "976 62",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -2476,7 +2476,7 @@
     "fullname": "Brusno - kúpele",
     "shortname": "Brusno - kúpele",
     "zip": "976 62",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -3220,7 +3220,7 @@
     "fullname": "Čačín",
     "shortname": "Čačín",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -3644,7 +3644,7 @@
     "fullname": "Čerín",
     "shortname": "Čerín",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -4844,7 +4844,7 @@
     "fullname": "Dolná Mičiná",
     "shortname": "Dolná Mičiná",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -4852,7 +4852,7 @@
     "fullname": "Dolná Môlča",
     "shortname": "Dolná Môlča",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -5244,7 +5244,7 @@
     "fullname": "Dolný Harmanec",
     "shortname": "Dolný Harmanec",
     "zip": "976 03",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -5284,7 +5284,7 @@
     "fullname": "Dolný Jelenec",
     "shortname": "Dolný Jelenec",
     "zip": "976 02",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -5460,7 +5460,7 @@
     "fullname": "Donovaly",
     "shortname": "Donovaly",
     "zip": "976 39",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -5884,7 +5884,7 @@
     "fullname": "Dúbravica",
     "shortname": "Dúbravica",
     "zip": "976 33",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -7188,7 +7188,7 @@
     "fullname": "Harmanec",
     "shortname": "Harmanec",
     "zip": "976 03",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -7412,7 +7412,7 @@
     "fullname": "Hiadeľ",
     "shortname": "Hiadeľ",
     "zip": "976 61",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -7836,7 +7836,7 @@
     "fullname": "Horná Mičiná",
     "shortname": "Horná Mičiná",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -7844,7 +7844,7 @@
     "fullname": "Horná Môlča",
     "shortname": "Horná Môlča",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -8164,7 +8164,7 @@
     "fullname": "Horné Pršany",
     "shortname": "Horné Pršany",
     "zip": "974 05",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -8332,7 +8332,7 @@
     "fullname": "Horný Jelenec",
     "shortname": "Horný Jelenec",
     "zip": "976 02",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -8900,7 +8900,7 @@
     "fullname": "Hrochoť",
     "shortname": "Hrochoť",
     "zip": "976 37",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -8932,7 +8932,7 @@
     "fullname": "Hronsek",
     "shortname": "Hronsek",
     "zip": "976 31",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -9676,7 +9676,7 @@
     "fullname": "Iliaš",
     "shortname": "Iliaš",
     "zip": "974 05",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -9980,7 +9980,7 @@
     "fullname": "Jabriková",
     "shortname": "Jabriková",
     "zip": "976 34",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -10028,7 +10028,7 @@
     "fullname": "Jakub",
     "shortname": "Jakub",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -10628,7 +10628,7 @@
     "fullname": "Jergaly",
     "shortname": "Jergaly",
     "zip": "976 02",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -12236,7 +12236,7 @@
     "fullname": "Kordíky",
     "shortname": "Kordíky",
     "zip": "976 34",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -12340,7 +12340,7 @@
     "fullname": "Kostiviarska",
     "shortname": "Kostiviarska",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -13020,7 +13020,7 @@
     "fullname": "Králiky",
     "shortname": "Králiky",
     "zip": "976 34",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -13052,7 +13052,7 @@
     "fullname": "Kráľová",
     "shortname": "Kráľová",
     "zip": "974 05",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -13340,7 +13340,7 @@
     "fullname": "Kremnička",
     "shortname": "Kremnička",
     "zip": "974 05",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -14004,7 +14004,7 @@
     "fullname": "Kynceľová",
     "shortname": "Kynceľová",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -15468,7 +15468,7 @@
     "fullname": "Ľubietová",
     "shortname": "Ľubietová",
     "zip": "976 55",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -15556,7 +15556,7 @@
     "fullname": "Lučatín",
     "shortname": "Lučatín",
     "zip": "976 61",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -16044,7 +16044,7 @@
     "fullname": "Majer",
     "shortname": "Majer",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -16324,7 +16324,7 @@
     "fullname": "Malachov",
     "shortname": "Malachov",
     "zip": "974 05",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -17244,7 +17244,7 @@
     "fullname": "Medzibrod",
     "shortname": "Medzibrod",
     "zip": "976 96",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -18084,7 +18084,7 @@
     "fullname": "Moštenica",
     "shortname": "Moštenica",
     "zip": "976 13",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -18108,7 +18108,7 @@
     "fullname": "Motyčky",
     "shortname": "Motyčky",
     "zip": "976 02",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -18116,7 +18116,7 @@
     "fullname": "Môlča",
     "shortname": "Môlča",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -18484,7 +18484,7 @@
     "fullname": "Nemce",
     "shortname": "Nemce",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -19956,7 +19956,7 @@
     "fullname": "Ondrej nad Hronom",
     "shortname": "Ondrej nad Hronom",
     "zip": "976 62",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -20092,7 +20092,7 @@
     "fullname": "Oravce",
     "shortname": "Oravce",
     "zip": "976 33",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -21644,7 +21644,7 @@
     "fullname": "Podkonice",
     "shortname": "Podkonice",
     "zip": "976 13",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -21668,7 +21668,7 @@
     "fullname": "Podlavice",
     "shortname": "Podlavice",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -21876,7 +21876,7 @@
     "fullname": "Pohronský Bukovec",
     "shortname": "Pohronský Bukovec",
     "zip": "976 62",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -21972,7 +21972,7 @@
     "fullname": "Polkanová (ostatné čísla)",
     "shortname": "Polkanová (ostat.č.)",
     "zip": "976 02",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -21980,7 +21980,7 @@
     "fullname": "Polkanová (č.d.1,2,3)",
     "shortname": "Polkanová (č.d.1,2,3",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -22076,7 +22076,7 @@
     "fullname": "Ponická Huta",
     "shortname": "Ponická Huta",
     "zip": "976 33",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -22084,7 +22084,7 @@
     "fullname": "Ponická Lehôtka",
     "shortname": "Ponická Lehôtka",
     "zip": "976 33",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -22092,7 +22092,7 @@
     "fullname": "Poniky",
     "shortname": "Poniky",
     "zip": "976 33",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -22364,7 +22364,7 @@
     "fullname": "Povrazník",
     "shortname": "Povrazník",
     "zip": "976 55",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -22644,7 +22644,7 @@
     "fullname": "Priechod",
     "shortname": "Priechod",
     "zip": "976 11",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -22852,7 +22852,7 @@
     "fullname": "Prostredná Môlča",
     "shortname": "Prostredná Môlča",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -23164,7 +23164,7 @@
     "fullname": "Radvaň",
     "shortname": "Radvaň",
     "zip": "974 05",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -23372,7 +23372,7 @@
     "fullname": "Rakytovce",
     "shortname": "Rakytovce",
     "zip": "974 05",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -23748,7 +23748,7 @@
     "fullname": "Riečka, ulica Nevoľné",
     "shortname": "Riečka, ulica Nevoľné",
     "zip": "976 34",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -23756,7 +23756,7 @@
     "fullname": "Riečka, ostatné ulice",
     "shortname": "Riečka",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -24196,7 +24196,7 @@
     "fullname": "Rudlová",
     "shortname": "Rudlová",
     "zip": "974 11",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -24652,7 +24652,7 @@
     "fullname": "Sásová",
     "shortname": "Sásová",
     "zip": "974 11",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -24676,7 +24676,7 @@
     "fullname": "Sebedín",
     "shortname": "Sebedín",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -24684,7 +24684,7 @@
     "fullname": "Sebedín - Bečov",
     "shortname": "Sebedín - Bečov",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -24812,7 +24812,7 @@
     "fullname": "Selce",
     "shortname": "Selce",
     "zip": "976 11",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -24908,7 +24908,7 @@
     "fullname": "Senica",
     "shortname": "Senica",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -25228,7 +25228,7 @@
     "fullname": "Skubín",
     "shortname": "Skubín",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -25500,7 +25500,7 @@
     "fullname": "Slovenská Ľupča",
     "shortname": "Slovenská Ľupča",
     "zip": "976 13",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -26196,7 +26196,7 @@
     "fullname": "Staré Hory",
     "shortname": "Staré Hory",
     "zip": "976 02",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -26492,7 +26492,7 @@
     "fullname": "Strelníky",
     "shortname": "Strelníky",
     "zip": "976 55",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -27060,7 +27060,7 @@
     "fullname": "Šalková",
     "shortname": "Šalková",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -27548,7 +27548,7 @@
     "fullname": "Špania Dolina",
     "shortname": "Špania Dolina",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -27684,7 +27684,7 @@
     "fullname": "Štiavnička",
     "shortname": "Štiavnička",
     "zip": "976 81",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -27788,7 +27788,7 @@
     "fullname": "Štubne",
     "shortname": "Štubne",
     "zip": "976 02",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -27988,7 +27988,7 @@
     "fullname": "Tajov",
     "shortname": "Tajov",
     "zip": "976 34",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -29132,7 +29132,7 @@
     "fullname": "Turecká",
     "shortname": "Turecká",
     "zip": "976 02",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -29444,7 +29444,7 @@
     "fullname": "Uľanka",
     "shortname": "Uľanka",
     "zip": "974 01",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -29684,7 +29684,7 @@
     "fullname": "Valentová",
     "shortname": "Valentová",
     "zip": "976 02",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
@@ -31204,7 +31204,7 @@
     "fullname": "Vlkanová",
     "shortname": "Vlkanová",
     "zip": "976 31",
-    "districtName" : "Okres Banská Bystrica",
+    "district_name": "Okres Banská Bystrica",
     "region_name": "Banskobystrický kraj"
   },
   {
